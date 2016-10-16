@@ -1,0 +1,3 @@
+[submodule "identidock"]
+	path = identidock
+	url = git@github.com:kraeml/identidock.git
